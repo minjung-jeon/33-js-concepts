@@ -3,7 +3,7 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  모든 JavaScript 개발자가 알아야할 33가지 개념
   <br><br>
 </h1>
 
@@ -21,22 +21,7 @@
 
 ## Introduction
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
-
-## Community
-
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
-
-- [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
+이 저장소는 개발자들이 JavaScript의 개념을 마스터할 수 있도록 돕기 위해 만들어졌습니다. 이것은 필수는 아니며, 단지 미래 학업의 지침이 될 것입니다. 이것은 [Stephen Curtis](https://twitter.com/stephenthecurt) 가 쓴 글을 바탕으로 한 것이고, [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) 에서 글을 읽을 수 있습니다.
 
 ---
 
